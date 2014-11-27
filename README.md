@@ -1,4 +1,6 @@
 #GIT
 
-feature-A2
-fix-B
+ - feature-A
+ - fix-B
+ - feature-D
+
